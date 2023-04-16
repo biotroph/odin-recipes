@@ -2,4 +2,4 @@
 I will learn html and finish this project.
 yes
 
-biotroph.github.io/odin-recipes
+https://biotroph.github.io/odin-recipes
